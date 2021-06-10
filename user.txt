@@ -1,0 +1,27 @@
+user
+    userfirstname
+    userlastname
+    usermiddlename
+    userbirthday
+    usersex
+    usercontactnumber
+    useremail
+    usercompany
+    userbaranggay
+    usercity
+    userstreet
+    userhousenumber
+    password
+    logintype
+    loginid
+    usertype
+    userstatus
+
+userqrcode
+    user_fkid
+    temperature
+
+scanner
+    userqrcode_fkid
+    user_fkid
+    qrcodestatus
